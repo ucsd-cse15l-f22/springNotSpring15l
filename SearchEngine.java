@@ -1,2 +1,3 @@
-class SearchEngine implements NumberServer {
+public class SearchEngine {
     
+}
