@@ -1,3 +1,3 @@
-public class SearchEngine {
+public class SearchEngine implements HTTPServer{
     
 }
